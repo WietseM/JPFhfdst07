@@ -1,5 +1,6 @@
 package be.vdab;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class jpfhfdst7 {
@@ -13,13 +14,11 @@ public class jpfhfdst7 {
         };
         System.out.println(isWeekend ? dag + " is weekend" : dag + " is een werkdag");
 
-
         var teller = 1;
         do {
             System.out.println(teller);
             teller++;
         }
         while (teller <= 10);
-
     }
 }
