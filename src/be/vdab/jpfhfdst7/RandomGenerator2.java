@@ -1,4 +1,4 @@
-package be.vdab;
+package be.vdab.jpfhfdst7;
 import java.util.Arrays;
 
 public class RandomGenerator2 {

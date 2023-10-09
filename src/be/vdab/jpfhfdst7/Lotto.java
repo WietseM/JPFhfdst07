@@ -1,4 +1,4 @@
-package be.vdab;
+package be.vdab.jpfhfdst7;
 
 public class Lotto {
     public static void main(String[] args) {
